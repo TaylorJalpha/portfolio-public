@@ -1,0 +1,70 @@
+
+
+
+
+
+Started GET "/" for ::1 at 2022-07-10 21:44:27 -0700
+  [1m[36mActiveRecord::SchemaMigration Load (0.6ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (3474.6ms)
+Completed 200 OK in 3580ms (Views: 3578.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2022-07-11 12:03:50 -0700
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2034.8ms)
+Completed 200 OK in 2159ms (Views: 2157.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2022-07-11 12:19:26 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (320.5ms)
+Completed 200 OK in 3069ms (Views: 3056.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2022-07-11 12:27:02 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (50.0ms)
+Completed 200 OK in 347ms (Views: 344.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2022-07-11 12:27:38 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (6.4ms)
+Completed 200 OK in 66ms (Views: 65.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2022-07-11 12:28:59 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (26.4ms)
+Completed 200 OK in 1513ms (Views: 1501.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2022-07-11 12:38:13 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (41.0ms)
+Completed 200 OK in 1739ms (Views: 1727.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2022-07-11 12:39:14 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (13.2ms)
+Completed 200 OK in 60ms (Views: 58.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2022-07-11 12:40:29 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (7.1ms)
+Completed 200 OK in 1345ms (Views: 1343.9ms | ActiveRecord: 0.0ms)
+
+
