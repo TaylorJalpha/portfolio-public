@@ -61,7 +61,7 @@ I'm a Web Developer, Product Manager, and Technical Writer based in Los Angeles,
 - Javascript
 - Google analytics & Tag Manager
 - HTML 
-- SCSS 
+- SASS 
 - Bootstrap 
 - Google font API 
 - Font Awesome 
