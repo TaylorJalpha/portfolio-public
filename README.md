@@ -47,7 +47,6 @@ I'm a Web Developer, Product Manager, and Technical Writer based in Los Angeles,
 - Font Awesome 
 - Mailer - Contact Mailer 
 - Hosting: Heroku
-- CDN: UNPKG
 
 
 ___________
