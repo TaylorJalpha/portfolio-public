@@ -1,21 +1,3 @@
-<h1 align="center">
-  Hello, I'm Taylor 
-</h1>
-
-### About Me :
-
-I'm a Web Developer, Product Manager, and Technical Writer based in Los Angeles, CA
-
-- :microscope: I work as a Web Developer(web2) & Product Manager for a multiple projects(web3), and formerly a PM for web2 saas companies (b2b + b2c), primarily - My goal is to pivot away from product to focus on dev, indeally within a high-growth startup while continuing to refine my product and management skills 
-
-- :memo: During my freetime I freelance as a Technical Writer - :rocket: <b>Goal:</b> refine writing skills to support content-strategies and content creation
-
-- :sunrise_over_mountains: When I'm not working, I explore the mtns, ride bikes and run/hike trails
-
-- :pager: Let's connect!: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/taylor-ferguson-57826660/)
-&nbsp; [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/taylorJalpha)
-
-
 
 --- 
 
@@ -26,6 +8,7 @@ I'm a Web Developer, Product Manager, and Technical Writer based in Los Angeles,
 - To use this website as a tempalte for your portfolio, follow the instructions below 
 - Begin by choosing a color theme and collecting all of the relevant assets needed including images 
 - The current version is using a web3 inspired design language using colors from Material Design's dark theme guide
+-The original website was a clone of public ror site, the current website has changed substantially since V1
 
 ### Portfolio Contents
 -	Bio
