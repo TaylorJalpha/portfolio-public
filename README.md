@@ -1,6 +1,3 @@
-
---- 
-
 ## Portfolio Website V2-Overview
 
 ### Process
