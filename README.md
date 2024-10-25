@@ -2,10 +2,10 @@
 
 ### Process
 - The first version of my portfolio website was built in 2019 
-- To use this website as a tempalte for your portfolio, follow the instructions below 
+- To use this website as a template for your portfolio, follow the instructions below 
 - Begin by choosing a color theme and collecting all of the relevant assets needed including images 
-- The current version is using a web3 inspired design language using colors from Material Design's dark theme guide
--The original website was a clone of public ror site, the current website has changed substantially since V1
+- The current version uses a web3-inspired design language using colors from Material Design's dark theme guide
+-The original website was a clone of a public RoR site, the current website has changed substantially since V1
 
 ### Portfolio Contents
 -	Bio
@@ -19,7 +19,7 @@
 - Ruby On Rails
 - JQuery
 - Javascript
-- Google analytics & Tag Manager
+- Google Analytics & Tag Manager
 - HTML 
 - SASS 
 - Bootstrap 
